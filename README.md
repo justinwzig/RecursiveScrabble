@@ -1,6 +1,8 @@
 # RecusriveScrabble
 java utility for finding scrabble words that have scrabble words "nested" inside them.
 
+original 538 challenge: https://fivethirtyeight.com/features/this-challenge-will-boggle-your-mind/
+
 explanation at https://justinwzig.github.io/recursive-scrabble-words-with-java/
 
 ## how-to
